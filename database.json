@@ -1,0 +1,78 @@
+{
+  "Appoinments": [
+    {
+      "fullname": "Goutham krishna",
+      "email": "gouthamkrishnaps02@gmail.com",
+      "phone": "9746594311",
+      "petname": "boogie",
+      "Appointment_type": "Urgent/Sick Exam",
+      "dr": "Dr.Joy",
+      "date": "2023-12-24",
+      "time": "12 Pm",
+      "comments": "123",
+      "id": 1
+    },
+    {
+      "fullname": "Neel",
+      "email": "neel@gmail.com",
+      "phone": "1234567890",
+      "petname": "suki",
+      "Appointment_type": "Urgent/Sick Exam",
+      "dr": "Dr.Alex",
+      "date": "2023-12-16",
+      "time": "12 Pm",
+      "comments": "be fast",
+      "id": 2
+    },
+    {
+      "fullname": "Goutham krishna",
+      "email": "gouthamkrishnaps02@gmail.com",
+      "phone": "1234567890",
+      "petname": "boogie",
+      "Appointment_type": "Urgent/Sick Exam",
+      "dr": "Dr.Joy",
+      "date": "2023-12-29",
+      "time": "12 Pm",
+      "comments": "",
+      "id": 3
+    }
+  ],
+  "Users": [
+    {
+      "username": "Goutham",
+      "email": "gouthamkrishnaps02@gmail.com",
+      "password": "goutham123",
+      "id": 1
+    },
+    {
+      "username": "Alwin",
+      "email": "alwin@gmail.com",
+      "password": "alwin123",
+      "id": 2
+    },
+    {
+      "username": "Jenson",
+      "email": "jenson@gmail.com",
+      "password": "jenson123",
+      "id": 3
+    },
+    {
+      "username": "Daniel",
+      "email": "daniel@gmail.com",
+      "password": "daniel123",
+      "id": 4
+    },
+    {
+      "username": "Ajay",
+      "email": "ajay@gmail.com",
+      "password": "ajay123",
+      "id": 5
+    },
+    {
+      "username": "Gisna",
+      "email": "gisna@gmail.como",
+      "password": "gisna123",
+      "id": 6
+    }
+  ]
+}
